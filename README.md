@@ -1,3 +1,4 @@
 # Fast-QPU
 Thank you for your attention!
-The code is in preparation and will be released before 2022.8.31.
+
+I'm sorry I've been busy with fall hiring lately, and the code release needs to be delayed until mid-October.
