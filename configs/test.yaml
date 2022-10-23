@@ -1,0 +1,8 @@
+# GPU
+device_ids: [3]
+
+# Dataset
+rotate: True
+ntu: '../data/NTU-RGB-D/qrel/xview'
+fpha: '../data/fpha/qrel'
+batch_size: 64
